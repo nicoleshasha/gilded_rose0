@@ -8,6 +8,6 @@ class Item
   end
 
   def to_s()
-    "#{@name}, #{@sell_in}, #{@quality}"
+    return "#{@name}, #{@sell_in}, #{@quality}"
   end
 end

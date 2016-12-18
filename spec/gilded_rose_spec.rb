@@ -10,6 +10,6 @@ describe GildedRose do
     end
   end
 
-  describe "#"
+  
 
 end
